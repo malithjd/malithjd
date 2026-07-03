@@ -1,7 +1,7 @@
 <h1 align="center">Malith Jaysinghe</h1>
 
 <p align="center">
-  <b>AI/ML Engineer — agentic systems for financial intelligence.</b><br>
+  <b>AI/ML Engineer — agentic systems for financial/real-estate intelligence.</b><br>
   ML models · agentic workflows · AI tools for real business problems.
 </p>
 
