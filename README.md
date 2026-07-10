@@ -52,7 +52,8 @@
 
 | Project | What it is |
 |---|---|
+| **[CatchFees-Agents](https://github.com/malithjd/CatchFees-Agents)** | Multi-agent car-buying copilot (ADK + Gemini) that reads purchase agreements, checks state law, scores the deal deterministically, and negotiates adversarially for the buyer. Agentic rebuild of the deployed catchfees.com. |
+| **[multi-agentic-insurance-claim-handling](https://github.com/malithjd/multi-agentic-insurance-claim-handling)** | Vision-grounded multi-agent system that adjudicates damage claims for cars, laptops, and packages — reconciling photos against the claim narrative over a deterministic safety core with prompt-injection guardrails. HackerRank Orchestrate #152/1,773. |
+| **[FollowTheFed](https://github.com/malithjd/FollowTheFed)** | Analysis of Fed rate decisions and their pass-through — asking whether the pass-through is symmetric and where the chain breaks. |
 | **[sp100-rank](https://github.com/malithjd/sp100-rank)** | Cross-sectional return ranking of S&P 100 equities. Walk-forward CV across Linear/RF/XGBoost/LightGBM, Rank IC as the primary metric, SHAP stability across folds, IC→PnL translation. |
-| **[BringTheApp](https://github.com/malithjd/BringTheApp)** | Deployed GenAI agent that analyzes auto purchase agreements and surfaces buried terms. Live, not a notebook. |
 | **[recsys-visual-eval-framework](https://github.com/malithjd/recsys-visual-eval-framework)** | Evaluation framework for visual recommendation systems combining ML and LLM-as-a-judge methods. |
-| **[Asset-Level-Rainfall-Risk-Indicator](https://github.com/malithjd/Asset-Level-Rainfall-Risk-Indicator)** | Geospatial rainfall-risk scoring from Google Earth Engine data joined to portfolio assets. |
